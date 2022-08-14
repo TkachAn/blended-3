@@ -1,8 +1,8 @@
 {
-  "name": "goit-blended-3",
+  "name": "blended-3",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://goitacademy.github.io/goit-blended-3/",
+  "homepage": "https://TkachAn.github.io/blended-3/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
