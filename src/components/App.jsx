@@ -3,7 +3,7 @@ import { Button } from './button/button';
 import data from '../data/data.json';
 import { cleanedArray } from 'helpers/cleaningJson';
 import Gallery from './gallery/gallery';
-import { element } from 'prop-types';
+// import { element } from 'prop-types';
 import Modal from './modal/modal';
 
 export class App extends Component {
