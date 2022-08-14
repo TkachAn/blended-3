@@ -1,4 +1,4 @@
-import { render } from '@testing-library/react';
+// import { render } from '@testing-library/react';
 import GalleryItem from './galleryItem';
 import propTypes from 'prop-types';
 
